@@ -1,19 +1,19 @@
 {
-    "name": "navid59/hello-world",
+    "name": "navid59/hello-composer",
     "description": "This is just a test for writing composer in php, the first test of navid",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Navid Torabazari",
             "email": "torabazary@yahoo.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {
-        "php": ">=5.3.0"
-    },
+    "minimum-stability": "stable",
+    "require": {},
     "autoload": {
-        "psr-0": {
-            "HelloWorld": "src/"
+        "psr-4": {
+            "navid59\\HelloWorld\\": "src/"
         }
     }
 }
