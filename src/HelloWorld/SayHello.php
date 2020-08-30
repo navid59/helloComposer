@@ -6,5 +6,8 @@ Class SayHello
 	{
 		return 'Hello World, Composer';
 	}
+	public static function halfofworld(){
+		return 'Isfahan';
+	}
 }
 ?>
