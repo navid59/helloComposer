@@ -12,5 +12,8 @@ Class SayHello
 	public static function justnewMethod(){
 		return 'Just New Method';
 	}
+	public static function anotherNewMethod(){
+		return 'Another New Method';
+	}
 }
 ?>
