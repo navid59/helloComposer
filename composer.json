@@ -9,11 +9,11 @@
             "email": "torabazary@yahoo.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
-            "navid59\\HelloWorld\\": "src/"
+            "navid59\\helloComposer\\": "src/"
         }
     }
 }
