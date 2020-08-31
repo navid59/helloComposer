@@ -1,5 +1,5 @@
 {
-    "name": "navid59/hello-composer",
+    "name": "navid59/helloComposer",
     "description": "This is just a test for writing composer in php, the first test of navid",
     "type": "library",
     "license": "MIT",
