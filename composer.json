@@ -1,4 +1,4 @@
-{
+i{
     "name": "navid59/hello-composer",
     "description": "This is just a test for writing composer in php, the first test of navid",
     "type": "library",
@@ -16,5 +16,5 @@
             "navid59\\helloComposer\\": "src/"
         }
     },
-    "version": "0.0.1"
+    "version": "1.0.0"
 }
