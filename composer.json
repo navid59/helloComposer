@@ -9,11 +9,12 @@
             "email": "torabazary@yahoo.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "require": {},
     "autoload": {
         "psr-4": {
             "navid59\\helloComposer\\": "src/"
         }
-    }
+    },
+    "version": "0.0.1"
 }
