@@ -9,5 +9,8 @@ Class SayHello
 	public static function halfofworld(){
 		return 'Isfahan';
 	}
+	public static function justnewMethod(){
+		return 'Just New Method';
+	}
 }
 ?>
